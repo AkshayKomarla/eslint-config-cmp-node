@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cmp-node",
-  "version": "0.0.2",
+  "version": "0.0.9",
   "description": "Eslint config for cmp nodejs project",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://fala.cl/ext_akshayd/eslint-config-cmp-node"
+    "url": "https://github.com/AkshayKomarla/eslint-config-cmp-node"
   },
   "keywords": [
     "javascript",

@@ -32,6 +32,10 @@ module.exports = {
         "spaced-comment": "error",
         "no-await-in-loop": "error",
         "require-await": "error",
-        "no-plusplus": "off"
+        "no-plusplus": "off",
+        "no-unused-expressions": "off",
+        "require-await": "off",
+        "consistent-return": ["error", { "treatUndefinedAsUnspecified": true }],
+        "no-param-reassign": ["error", { "props": false }]
     }
 }

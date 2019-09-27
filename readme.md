@@ -1,11 +1,11 @@
 # CMP Node.js - ESLint & Prettier Setup
 
 ## DEMO
-
+![Farmers Market Finder Demo](./module_demo.gif)
 
 ## What it does
 * Fixes linting & code formatting errors on SAVE (CTRL + S)
-* Enforces proper coding standard across the team & all repositories
+* Enforces strict coding standard across the team & all repositories
 * Linting JavaScript is based on the latest standards using `eslint-config-airbnb-base`
 
 ### 1. Install Packages
