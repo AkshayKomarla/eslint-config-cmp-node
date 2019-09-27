@@ -5,7 +5,7 @@
 
 ## What it does
 * Fixes linting & code formatting errors on SAVE (CTRL + S)
-* Enforces strict coding standard across the team & all repositories
+* Enforces strict coding standard by making code more consistent & avoiding bugs across the team & all repositories.
 * Linting JavaScript is based on the latest standards using `eslint-config-airbnb-base`
 
 ### 1. Install Packages
