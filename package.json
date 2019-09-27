@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cmp-node",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "description": "Eslint config for cmp nodejs project",
   "main": "index.js",
   "scripts": {

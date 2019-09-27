@@ -1,7 +1,7 @@
 # CMP Node.js - ESLint & Prettier Setup
 
 ## DEMO
-![Farmers Market Finder Demo](./module_demo.gif)
+![demo](https://raw.githubusercontent.com/AkshayKomarla/eslint-config-cmp-node/master/module_demo.gif)
 
 ## What it does
 * Fixes linting & code formatting errors on SAVE (CTRL + S)
